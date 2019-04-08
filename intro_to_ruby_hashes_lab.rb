@@ -51,9 +51,9 @@ def monopoly_with_fourth_tier
   	      
   	    },
   	    :pennsylvania_railroad => {"mortgage_value" => "$200"},
-  	    :b_and_o_railroad => {"mortage_value" => "$400"},
+  	    :b_and_o_railroad => {"mortgage_value" => "$400"},
   	    
-  	    :shortline => {"mortage_value" => "$800"}
+  	    :shortline => {"mortgage_value" => "$800"}
   	  },
   	  :rent_in_dollars => {
   	    one_piece_owned: 25,
